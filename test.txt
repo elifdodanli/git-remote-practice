@@ -2,3 +2,5 @@ Hello Remote World
 
 This line was added directly on GitHub.
 This is a critical line of text
+This is my half-finished work...
+This is the final line for our v1.0 release.
